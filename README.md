@@ -1,4 +1,4 @@
-<h1>Adding/Editing Windows Firewall Rules</h1>
+<h1>Configuring Windows Firewall Rules & Windows Antivirus</h1>
 
 
 <h2>Objective</h2>
