@@ -11,10 +11,10 @@ This lab aims to demonstrate:
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- Windows Defender Antivirus
+- Windows Defender Firewall
 
 <h2>Environments Used </h2>
 
