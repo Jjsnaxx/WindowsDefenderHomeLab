@@ -25,7 +25,7 @@ This lab aims to demonstrate:
 <p align="center">
    
 Select: <br/>
-<img src="[https://imgur.com/a/7vR73HF](https://imgur.com/a/7vR73HF)" height="80%" width="80%" alt="Launch Windows Antivirus"/>
+<img src="https://i.imgur.com/7vR73HF.png" height="80%" width="80%" alt="Launch Windows Antivirus"/>
 <br />
 <br />
 Select the disk:  <br/>
