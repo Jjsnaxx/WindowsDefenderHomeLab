@@ -20,11 +20,9 @@ This lab aims to demonstrate:
 
 - <b>Windows 10</b> 
 
-<h2>Lab walk-through:</h2>
+<h2>Windows Defender Antivirus Walkthrough:</h2>
 
 <p align="center">
-
-<h2>Windows Defender Antivirus</h2>
    
 From the start menu type in Virus and Threat Protection and open the program: <br/>
 <img src="https://i.imgur.com/d143tVE.png" height="80%" width="80%" alt="Launch Windows Antivirus"/>
