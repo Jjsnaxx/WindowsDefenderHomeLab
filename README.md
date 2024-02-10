@@ -36,11 +36,11 @@ Once open some important features to note:
 <img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Virus and Threat Protection Page"/>
 <br />
 <br />
-Scan Options: Here you can choose to what type of scan to complete: <br/>
+Scan Options: Here you can choose to what type of scan you wish to complete <br/>
 <img src="https://i.imgur.com/p99Yq7P.png" height="80%" width="80%" alt="Scan Options"/>
 <br />
 <br />
-Virus and Threat Protection: Here you can configure your level of protection. Unless you have 3rd party Anti-virus applications installed it is advised to have Real Time Protection switched on:  <br/>
+Virus and Threat Protection: Here you can configure your level of protection. Unless you have 3rd party Anti-virus applications installed it is advised to have Real Time Protection switched on <br/>
 <img src="https://i.imgur.com/ur98KFB.png" height="80%" width="80%" alt="Protection Settings"/>
 <br />
 <br />
