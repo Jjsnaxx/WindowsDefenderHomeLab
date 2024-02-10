@@ -23,6 +23,8 @@ This lab aims to demonstrate:
 <h2>Lab walk-through:</h2>
 
 <p align="center">
+
+<h2>Windows Defender Antivirus</h2>
    
 From the start menu type in Virus and Threat Protection and open the program: <br/>
 <img src="https://i.imgur.com/d143tVE.png" height="80%" width="80%" alt="Launch Windows Antivirus"/>
@@ -51,6 +53,10 @@ Virus and Threat Protection Updates: Windows Security uses security intelligence
 Ransomeware Protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes. <br/>
 <img src="https://i.imgur.com/QzlISjw.png" height="80%" width="80%" alt="Ransomeware Protection"/>
 </p>
+
+<h2>Post-Lab lessons learnt</h2>
+
+First ever lab (I have ever shared) DONE. I think learning how to navigate Github, creating a repository as well as learning how to use markdown text was probably the most challenging bit. Windows Anti-virus is definitely a great option to ensure your computer data is safe asssuming its configured properly. Learnt how to update threat definitions and perform a custom scan on a specific folder.
 
 <!--
  ```diff
