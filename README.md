@@ -33,8 +33,6 @@ Once open some important feautures to note:
 - Virus and Threat Protection Settings: Here you can configure your protection level, opt to send sample files to Microsoft, exclude files or folders from scans, or temporarily stop your protection.
 - Virus & threat protection updates: Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
 - Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.
-<br />
-<br />
 <img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Virus and Threat Protection Page"/>
 <br />
 <br />
