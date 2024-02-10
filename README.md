@@ -32,7 +32,7 @@ Once open some important feautures to note:
 - Current Threats: Shows if there are any threats on your current device. You can see when the last scan occurred, how long the scan took, and how many files were scanned. Here you can also click the button to start a quick scan or access scan options to run a full scan or a custom scan.
 - Virus and Threat Protection Settings: Here you can configure your protection level, opt to send sample files to Microsoft, exclude files or folders from scans, or temporarily stop your protection.
 - Virus & threat protection updates: Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
-- Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.
+- Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.  <br/>
 <img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Virus and Threat Protection Page"/>
 <br />
 <br />
@@ -40,7 +40,7 @@ Under Scan Options you can choose to what type of scan to complete: <br/>
 <img src="https://i.imgur.com/p99Yq7P.png" height="80%" width="80%" alt="Scan Options"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Under Virus and Threat Protection here are the options:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
