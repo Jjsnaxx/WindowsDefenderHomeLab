@@ -34,11 +34,11 @@ Once open some important feautures to note:
 - Virus & threat protection updates: Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
 - Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.
 :  <br/>
-<img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Virus and Threat Protection Page"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Under Scan Options you can choose to what type of scan to complete: <br/>
+<img src="https://i.imgur.com/p99Yq7P.png" height="80%" width="80%" alt="Scan Options"/>
 <br />
 <br />
 Confirm your selection:  <br/>
