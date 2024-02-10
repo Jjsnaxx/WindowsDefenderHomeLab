@@ -28,11 +28,11 @@ From the start menu type in Virus and Threat Protection and open the program: <b
 <img src="https://i.imgur.com/d143tVE.png" height="80%" width="80%" alt="Launch Windows Antivirus"/>
 <br />
 <br />
-Once open some important feautures to note:
+Once open some important features to note:
 - Current Threats: Shows if there are any threats on your current device. You can see when the last scan occurred, how long the scan took, and how many files were scanned. Here you can also click the button to start a quick scan or access scan options to run a full scan or a custom scan.
 - Virus and Threat Protection Settings: Here you can configure your protection level, opt to send sample files to Microsoft, exclude files or folders from scans, or temporarily stop your protection.
 - Virus & threat protection updates: Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
-- Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.  <br/>
+- Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.  
 <img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Virus and Threat Protection Page"/>
 <br />
 <br />
