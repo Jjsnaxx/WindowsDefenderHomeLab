@@ -30,7 +30,7 @@ From the start menu type in Virus and Threat Protection and open the program: <b
 <br />
 <br />
 Once open some important features to note:
-- Current Threats
+- Current Threats/Scan options
 - Virus and Threat Protection Settings
 - Virus & threat protection updates
 - Ransomware protection
