@@ -40,8 +40,8 @@ Under Scan Options you can choose to what type of scan to complete: <br/>
 <img src="https://i.imgur.com/p99Yq7P.png" height="80%" width="80%" alt="Scan Options"/>
 <br />
 <br />
-Under Virus and Threat Protection here are the options:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Under Virus and Threat Protection here are the options, unless you have 3rd party Anti-virus applications installed it is advised to have Real Time Protection switched on:  <br/>
+<img src="https://i.imgur.com/ur98KFB.png" height="80%" width="80%" alt="Protection Settings"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
