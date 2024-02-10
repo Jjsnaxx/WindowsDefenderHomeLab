@@ -50,10 +50,6 @@ Virus and Threat Protection Updates: Windows Security uses security intelligence
 <br />
 Ransomeware Protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes. <br/>
 <img src="https://i.imgur.com/QzlISjw.png" height="80%" width="80%" alt="Ransomeware Protection"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
