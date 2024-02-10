@@ -36,16 +36,16 @@ Once open some important features to note:
 <img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Virus and Threat Protection Page"/>
 <br />
 <br />
-Scan Options: Here you can choose to what type of scan to complete.: <br/>
+Scan Options: Here you can choose to what type of scan to complete: <br/>
 <img src="https://i.imgur.com/p99Yq7P.png" height="80%" width="80%" alt="Scan Options"/>
 <br />
 <br />
-Virus and Threat Protection: Here you can configure your level of protection. Unless you have 3rd party Anti-virus applications installed it is advised to have Real Time Protection switched on.:  <br/>
+Virus and Threat Protection: Here you can configure your level of protection. Unless you have 3rd party Anti-virus applications installed it is advised to have Real Time Protection switched on:  <br/>
 <img src="https://i.imgur.com/ur98KFB.png" height="80%" width="80%" alt="Protection Settings"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Virus and Threat Protection Updates: Windows Security uses security intelligence, also known as definitions, to identify known threats. These definitions include information about known threats. These definitions are updated automatically, but if you suspect a problem with your system, you should ensure that threat definitions are up-to-date before you run a scan.  <br/>
+<img src="https://i.imgur.com/yqyhBCJ.png" height="80%" width="80%" alt="Updating Threat Definitions"/>
 <br />
 <br />
 Sanitization complete:  <br/>
