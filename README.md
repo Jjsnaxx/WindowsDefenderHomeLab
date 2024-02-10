@@ -24,7 +24,7 @@ This lab aims to demonstrate:
 
 <p align="center">
    
-Select: <br/>
+From the start menu type in Virus and Threat Protection and open the program: <br/>
 <img src="https://i.imgur.com/d143tVE.png" height="80%" width="80%" alt="Launch Windows Antivirus"/>
 <br />
 <br />
