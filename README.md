@@ -42,7 +42,7 @@ Next we want to select advanced security: <br/>
 <br />
 <br />
 Select inbound rules. Rules with a green tick next to them indicates that rule is enable to allow inbound communication. Rules without the tick mean they are available for use but not enabled. <br/>
-<img src="https://i.imgur.com/ur98KFB.png" height="80%" width="80%" alt="Protection Settings"/>
+<img src="https://i.imgur.com/qD87M1z.png" height="80%" width="80%" alt="Inbound Rules"/>
 <br />
 <br />
 Virus and Threat Protection Updates: Windows Security uses security intelligence, also known as definitions, to identify known threats. These definitions include information about known threats. These definitions are updated automatically, but if you suspect a problem with your system, you should ensure that threat definitions are up-to-date before you run a scan.  <br/>
