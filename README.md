@@ -84,11 +84,11 @@ Now we will create an inbound rule that blocks communication with the public net
 <img src="https://i.imgur.com/i2Cuii0.png" height="150%" width="150%" alt="Copy rule"/>
 <br />
 <br />
-Double click on the rule you just created, go to advanced and make sure only "Public is ticked". <br/>
+Double click on the rule you just created, go to advanced and make sure only "Public is ticked" then click apply. <br/>
 <img src="https://i.imgur.com/SLzyrWz.png" height="80%" width="80%" alt="Only public is ticked"/>
 <br />
 <br />
-Now you will see that a green checkmark appears next to the first rule indicating that the rule allowing communication is enabled. A circle with a line through it appears next to the second rule indicating that the rule blocking communication is enabled. <br/>
+Now when you return the Overview panel of Windows Defender Firewall with Advanced Security. You will see that a green checkmark appears next to the first rule indicating that the rule allowing communication is enabled. A circle with a line through it appears next to the second rule indicating that the rule blocking communication is enabled. <br/>
 <img src="https://i.imgur.com/De0d55A.png" width="80%" alt="updated firewalls"/>
 </p>
 
