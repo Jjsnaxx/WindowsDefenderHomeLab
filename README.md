@@ -82,11 +82,19 @@ Click on advanced and untick the box "Public" because we want to allow communica
 <br />
 Now we will create an inbound rule that blocks communication with the public network. Since the new rule will be similar to the last, we will copy the existing rule. Right-click the Key Management Service (TCP-In) inbound rule and click Copy. Press Ctrl+V to paste.  <br/>
 <img src="https://i.imgur.com/i2Cuii0.png" height="150%" width="150%" alt="Copy rule"/>
+<br />
+<br />
+Double click on the rule you just created, go to advanced and make sure only "Public is ticked". <br/>
+<img src="https://i.imgur.com/SLzyrWz.png" height="80%" width="80%" alt="Only public is ticked"/>
+<br />
+<br />
+Now you will see that a green checkmark appears next to the first rule indicating that the rule allowing communication is enabled. A circle with a line through it appears next to the second rule indicating that the rule blocking communication is enabled. <br/>
+<img src="https://i.imgur.com/De0d55A.png" width="80%" alt="updated firewalls"/>
 </p>
 
 <h2>Post-Lab lessons learnt</h2>
 
-First ever lab (I have ever shared) DONE. I think learning how to navigate Github, creating a repository as well as learning how to use markdown text was probably the most challenging bit. Windows Anti-virus is definitely a great option to ensure your computer data is safe asssuming its configured properly. Learnt how to update threat definitions and perform a custom scan on a specific folder.
+First ever lab (I have ever shared) DONE. I think learning how to navigate Github, creating a repository as well as learning how to use markdown text was probably the most challenging bit. Windows Anti-virus is definitely a great option to ensure your computer data is safe asssuming its configured properly. Learnt how to update threat definitions and perform a custom scan on a specific folder. Learnt how to accept and block traffic using firewall rules.
 
 <!--
  ```diff
