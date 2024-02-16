@@ -6,7 +6,7 @@
 This lab aims to demonstrate:
 
 1. How to review Windows Security Virus and threat protection, Update threat definitions and run Windows Antivirus quick scan.
-2. How to; configure, add and remove firewall rules using Microsoft Windows Defender Firewall advanced security
+2. Configure Microsoft Windows Defender Firewall with advanced security to allow the connection for Key Management Service on the Domain and Private network and Deny the connection for Key Management Service on the Public network.
    
 <br />
 
@@ -55,15 +55,11 @@ Ransomeware Protection: Here, you can choose to enable controlled folder access.
 <h2>Windows Defender Firewall Walkthrough:</h2>
 <br />
 From the start menu type in Virus and Threat Protection and open the program: <br/>
-<img src="https://i.imgur.com/d143tVE.png" height="80%" width="80%" alt="Launch Windows Antivirus"/>
+<img src="https://i.imgur.com/bNmaAEC.png" height="80%" width="80%" alt="Launch Windows Firewall"/>
 <br />
 <br />
-Once open some important features to note:
-- Current Threats/Scan options
-- Virus and Threat Protection Settings
-- Virus & threat protection updates
-- Ransomware protection
-<img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Virus and Threat Protection Page"/>
+Here's what it should look like: <br/>
+<img src="https://i.imgur.com/UN4boV4.png" height="80%" width="80%" alt="Firewall and Network Protection"/>
 <br />
 <br />
 Scan Options: Here you can choose to what type of scan you wish to complete, it also shows if there are any threats on your current device. You can see when the last scan occurred, how long the scan took, and how many files were scanned. Here you can also click the button to start a quick scan or access scan options to run a full scan or a custom scan. <br/>
