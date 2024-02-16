@@ -81,7 +81,7 @@ Click on advanced and untick the box "Public" because we want to allow communica
 <br />
 <br />
 Now we will create an inbound rule that blocks communication with the public network. Since the new rule will be similar to the last, we will copy the existing rule. Right-click the Key Management Service (TCP-In) inbound rule and click Copy. Press Ctrl+V to paste.  <br/>
-<img src="https://i.imgur.com/i2Cuii0.png" height="150%" width="80%" alt="Copy rule"/>
+<img src="https://i.imgur.com/i2Cuii0.png" height="150%" width="150%" alt="Copy rule"/>
 </p>
 
 <h2>Post-Lab lessons learnt</h2>
