@@ -37,11 +37,11 @@ Once open some important features to note:
 <img src="https://i.imgur.com/fE62DL1.png" height="80%" width="80%" alt="Virus and Threat Protection Page"/>
 <br />
 <br />
-Scan Options: Here you can choose to what type of scan you wish to complete, it also shows if there are any threats on your current device. You can see when the last scan occurred, how long the scan took, and how many files were scanned. Here you can also click the button to start a quick scan or access scan options to run a full scan or a custom scan. <br/>
-<img src="https://i.imgur.com/p99Yq7P.png" height="80%" width="80%" alt="Scan Options"/>
+Next we want to select advanced security: <br/>
+<img src="https://i.imgur.com/DUJGZsD.png" height="80%" width="80%" alt="Advanced Security"/>
 <br />
 <br />
-Virus and Threat Protection: Here you can configure your level of protection, opt to send sample files to Microsoft, exclude files or folders from scans, or temporarily stop your protection. Unless you have 3rd party Anti-virus applications installed it is advised to have Real Time Protection switched on <br/>
+Select inbound rules. Rules with a green tick next to them indicates that rule is enable to allow inbound communication. Rules without the tick mean they are available for use but not enabled. <br/>
 <img src="https://i.imgur.com/ur98KFB.png" height="80%" width="80%" alt="Protection Settings"/>
 <br />
 <br />
