@@ -70,13 +70,18 @@ Select inbound rules. Rules with a green tick next to them indicates that rule i
 <img src="https://i.imgur.com/qD87M1z.png" height="80%" width="80%" alt="Inbound Rules"/>
 <br />
 <br />
-Virus and Threat Protection Updates: Windows Security uses security intelligence, also known as definitions, to identify known threats. These definitions include information about known threats. These definitions are updated automatically, but if you suspect a problem with your system, you should ensure that threat definitions are up-to-date before you run a scan.  <br/>
-<img src="https://i.imgur.com/yqyhBCJ.png" height="80%" width="80%" alt="Updating Threat Definitions"/>
+Scroll to the Key Management Service inbound rule, the policy is currently not enabled. If enabled, the rule would allow communication.
+Double-click this rule. 
+<br/>
+<img src="https://i.imgur.com/D3UoIwh.png" height="80%" width="80%" alt="KMS"/>
 <br />
 <br />
-Ransomeware Protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes. <br/>
-<img src="https://i.imgur.com/QzlISjw.png" height="80%" width="80%" alt="Ransomeware Protection"/>
-
+Click on advanced and untick the box "Public" because we want to allow communication only with the domain and private networks <br/>
+<img src="https://i.imgur.com/LjcmCMy.png" height="80%" width="80%" alt="Untick Public"/>
+<br />
+<br />
+Now we will create an inbound rule that blocks communication with the public network. Since the new rule will be similar to the last, we will copy the existing rule. Right-click the Key Management Service (TCP-In) inbound rule and click Copy. Press Ctrl+V to paste.  <br/>
+<img src="https://i.imgur.com/i2Cuii0.png" height="80%" width="80%" alt="Copy rule"/>
 </p>
 
 <h2>Post-Lab lessons learnt</h2>
