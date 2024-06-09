@@ -7,8 +7,8 @@ This lab is a guided project by Coursera,
 
 It aims to demonstrate:
 
-1. How to review Windows Security Virus and threat protection, Update threat definitions and run Windows Antivirus quick scan.
-2. Configure Microsoft Windows Defender Firewall with advanced security to allow the connection for Key Management Service on the Domain and Private network and Deny the connection for Key Management Service on the Public network.
+- How to review Windows Security Virus and threat protection, Update threat definitions and run Windows Antivirus quick scan.
+- Configure Microsoft Windows Defender Firewall with advanced security to allow the connection for Key Management Service on the Domain and Private network and Deny the connection for Key Management Service on the Public network.
    
 <br />
 
